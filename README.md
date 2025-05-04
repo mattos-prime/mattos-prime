@@ -93,7 +93,6 @@ Me chamo André Felipe, tenho 21 anos e sou natural do Rio Grande do Norte. Conc
 
 
 </p>
-<img
-    width="200px"
-    ![gif_urinha_rodando](https://github.com/user-attachments/assets/b6d6ba4a-dea8-4a1e-b55f-d5ca0f3303d2)
-/>
+
+<img src="https://github.com/mattos-prime/ura-assets/blob/main/backup/gif_urinha_rodando.gif" width="100px">
+
