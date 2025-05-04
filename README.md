@@ -17,7 +17,7 @@ Me chamo André Felipe, tenho 21 anos e sou natural do Rio Grande do Norte. Conc
         <img 
             alt="conta discord" 
             title="Perfil do Discord" 
-            src="https://img.shields.io/badge/A%20N%20D%20R%20E%20W%239742-grey?style=flat-square&logo=discord&logoColor=white
+            src="https://img.shields.io/badge/a-grey?style=flat-square&logo=discord&logoColor=white
             "
         />
     </a>   
